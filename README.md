@@ -21,3 +21,10 @@
 <img width="705" height="560" alt="image" src="https://github.com/user-attachments/assets/d2837197-6594-422b-b6f4-651c64477f2b" />
 - Front
 <img width="705" height="560" alt="image" src="https://github.com/user-attachments/assets/33190993-d27c-400f-bd45-9431f358e983" />
+
+## Cad
+- Onshape link:https://cad.onshape.com/documents/fe18899c0fc823d496ae247b/w/1ef647bd25a6a14e89f050fb/e/3a17c80e85047fb88fb13b3e?renderMode=0&uiState=6a0dad73ebc90dae0eac1fbd
+
+<img width="870" height="283" alt="image" src="https://github.com/user-attachments/assets/36ff0a0e-4fc7-4a91-86a2-406f5e9618ff" />
+<img width="549" height="528" alt="image" src="https://github.com/user-attachments/assets/f49427e2-ff62-43da-8c27-2183ec5aa755" />
+<img width="541" height="461" alt="image" src="https://github.com/user-attachments/assets/74840a17-c0a8-4be2-b50b-27c1ef1dca60" />
