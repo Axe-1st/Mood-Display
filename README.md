@@ -18,6 +18,6 @@
 
 ## PCB Render
 - back
-![Uploading image.png…]()
+<img width="705" height="560" alt="image" src="https://github.com/user-attachments/assets/d2837197-6594-422b-b6f4-651c64477f2b" />
 - Front
-![Uploading image.png…]()
+<img width="705" height="560" alt="image" src="https://github.com/user-attachments/assets/33190993-d27c-400f-bd45-9431f358e983" />
