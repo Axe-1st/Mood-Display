@@ -5899,7 +5899,7 @@
 		(embedded_fonts no)
 		(model "/home/axe-flores/Downloads/waveshare-1-28in-round-display-1.snapshot.4/Waveshare 1.28in Round Display.stp"
 			(offset
-				(xyz -2 2 0)
+				(xyz -1 3 0)
 			)
 			(scale
 				(xyz 1 1 1)
