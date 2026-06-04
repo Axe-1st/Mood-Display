@@ -1,6 +1,8 @@
 # Mood-Display
 ## A Round Pin badge display! Powered by an Integrated ESP32-S3-WROOM-1 and a 1.28 in round display MoodBadge clips easily to your ID lanyard, keychain, belt, Bag, and so many more. You can easily express your mood or any animations you want to play on the display!
 
+> Hiya! This project is still in its designing stage! When i build it, I will make a step by step video how to assemble 
+
 <img src = "Main/Zine/Mooddisplay Zine.png">
 
 > PDF is available in Zine folder!
@@ -20,6 +22,7 @@
 ## PCB Render
 - back
 <img width="705" height="560" alt="image" src="https://github.com/user-attachments/assets/d2837197-6594-422b-b6f4-651c64477f2b" />
+
 - Front
 <img width="705" height="560" alt="image" src="https://github.com/user-attachments/assets/33190993-d27c-400f-bd45-9431f358e983" />
 
