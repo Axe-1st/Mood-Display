@@ -11,6 +11,11 @@
 ### This exsist since i wanted a badge that i can interact with.
 ### This project is pretty easy to do, All you need to do is follow the tutorial (Scoll down)
 
+### Some kind of important notes!
+- This is powered by USB C <b>ONLY</b>
+- yes that means you have to always have a powerbank around with u to power it!
+- reason for this: It would increase project cost and its complexity. 
+
 ## Schematic
 <img width="1164" height="656" alt="image" src="https://github.com/user-attachments/assets/085512ab-89a7-46d8-b458-bb92335da158" />
 
